@@ -3,7 +3,7 @@ export default function Footer() {
     <footer class="text-white body-font">
       <div class="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
         <a class="flex title-font font-medium items-center md:justify-start justify-center" href="/">
-          <span class="ml-3 text-xl">Bored Developers</span>
+          <span class="ml-3 text-xl">© 2023 Bored Developers</span>
         </a>
         <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
           {/* <a href="https://facebook.com/">
