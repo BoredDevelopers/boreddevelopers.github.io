@@ -9,7 +9,7 @@ export default function Home() {
     <div className="text-white bg-black">
       <NextSeo
         title="Home: Bored Developers"
-        description="Welcome to Bored Developers homepage."
+        description="Welcome to Bored Developers"
         canonical="https://boreddevelopers.xyz/"
         openGraph={{
           url: "https://boreddevelopers.xyz/",
