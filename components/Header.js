@@ -8,7 +8,7 @@ export default function Header() {
       <div class="container mx-auto flex flex-wrap p-5 md:flex-row">
         <a class="flex title-font font-medium text-white mb-4 md:mb-0 pr-4 h-32" href="/">
           {/* <span class="ml-3 text-3xl">Bored Developers</span> */}
-          <img src="./images/logo_wide_transparent_background.png" class="h-auto max-w-full rounded-lg" alt="logo" />
+          <img src="./images/logo_wide_transparent_background.png" class="h-16 md:h-24 lg:h-32" alt="logo" />
         </a>
         <button
             className="text-white cursor-pointer text-xl leading-none py-1 border border-solid border-transparent rounded bg-transparent block md:hidden outline-none focus:outline-none ml-auto pb-3"
