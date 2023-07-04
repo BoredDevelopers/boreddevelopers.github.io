@@ -14,6 +14,10 @@ export default function Footer() {
           <SocialIcon kind="twitter" href={siteMetadata.twitter} />
         </div>
         <div className="flex mb-2 space-x-2 text-sm text-gray-500 dark:text-gray-400">
+          <div>{` • `}</div>
+          <div>{` • `}</div>
+          <div>{`© ${new Date().getFullYear()}`}</div>
+          <div>{` • `}</div>
           <Link
             href="https://www.boreddevelopers.xyz"
             className="hover:text-primary-600 dark:hover:text-primary-400"
@@ -21,7 +25,7 @@ export default function Footer() {
             {siteMetadata.author}
           </Link>
           <div>{` • `}</div>
-          <div>{`© ${new Date().getFullYear()}`}</div>
+          <div>{` • `}</div>
           {/* <div>{` • `}</div>
           <Link
             href="https://github.com/BoredDevelopers/boreddevelopers.github.io"
