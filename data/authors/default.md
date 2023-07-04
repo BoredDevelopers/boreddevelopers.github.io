@@ -1,0 +1,13 @@
+---
+avatar: /static/images/avatars/default.webp
+name: Bored Developers
+company: Bored Developers Sweden AB
+email: contact@boreddevelopers.se
+twitter: https://twitter.com/theboreddevs
+linkedin: https://www.linkedin.com/company/boreddevelopers
+github: https://github.com/boreddevelopers
+---
+
+Bored Developers bla bla bla...
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
