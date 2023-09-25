@@ -96,12 +96,12 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                         <dd className="text-gray-900 dark:text-gray-100">{author.name}</dd>
                         <dt className="sr-only">Github</dt>
                         <dd>
-                          {author.github && (
+                          {author.linkedin && (
                             <Link
-                              href={author.github}
+                              href={author.linkedin}
                               className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
                             >
-                              {author.github.replace('https://github.com/', '@')}
+                              {author.linkedin.replace('https://www.linkedin.com/in/', '@')}
                             </Link>
                           )}
                         </dd>

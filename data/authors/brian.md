@@ -3,9 +3,7 @@ name: Brian Madsen
 avatar: /static/images/avatars/brian.webp
 company: Bored Developers Sweden AB
 email: brian@boreddevelopers.se
-twitter: https://twitter.com/brianmadsen
-linkedin: https://www.linkedin.com/in/brianmadsen/
-github: https://github.com/brianmadsen
+linkedin: https://www.linkedin.com/in/brianmadsen
 ---
 
 Brian Madsen bla bla bla...

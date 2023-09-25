@@ -21,7 +21,7 @@ module.exports = {
       },
       fontFamily: {
         // @ts-ignore
-        sans: ['Inter', ...defaultTheme.fontFamily.sans],
+        sans: ['Lato', ...defaultTheme.fontFamily.sans],
       },
       colors: {
         primary: colors.sky,

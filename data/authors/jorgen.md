@@ -3,9 +3,7 @@ name: Jörgen Nilsson
 avatar: /static/images/avatars/jorgen.webp
 company: Bored Developers Sweden AB
 email: jorgen@boreddevelopers.se
-twitter: https://twitter.com/jorgennilsson
-linkedin: https://www.linkedin.com/in/jornilsson/
-github: https://github.com/plexodus
+linkedin: https://www.linkedin.com/in/jornilsson
 ---
 
 Jörgen Nilsson bla bla bla...
