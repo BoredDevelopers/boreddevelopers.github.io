@@ -70,7 +70,7 @@ module.exports = withBundleAnalyzer({
     ]
   },
   images: {
-    unoptimized: true,
+    unoptimized: false,
   },
   webpack: (config, { dev, isServer }) => {
     config.module.rules.push({
