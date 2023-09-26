@@ -70,8 +70,8 @@ module.exports = withBundleAnalyzer({
     ]
   },
   images: {
-     loader: 'akamai',
-     path: '/',
+     loader: 'imgix',
+     path: '',
   },
   webpack: (config, { dev, isServer }) => {
     config.module.rules.push({
