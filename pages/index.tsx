@@ -19,47 +19,33 @@ export const getStaticProps: GetStaticProps<{ posts: PostFrontMatter[] }> = asyn
 export default function Home({ posts }: InferGetStaticPropsType<typeof getStaticProps>) {
   return (
     <>
-        <PageSEO title={siteMetadata.title} description={siteMetadata.description} />        
+      <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
       <div>
-          <div className="pt-6 pb-10 space-y-2 md:space-y-5">
-              <h1 className="mono-type font-bold text-2xl leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
-                  Not your ordinary software developers
-              </h1>
-              <p>
-                  We are a team of dedicated professionals who thrive on challenges and are relentless in our pursuit of quality solutions. Our journey in the realm of technology is driven by an insatiable curiosity and a commitment to excellence that sets us apart.
-              </p>
-              {/*<p>  */}
-              {/*    With a penchant for problem-solving and an unwavering commitment to innovation, we transform the mundane into the extraordinary.*/}
-              {/*</p>*/}
-              {/*<p>*/}
-              {/*    We understand that every project is a unique puzzle waiting to be solved, and we approach each one with enthusiasm, creativity, and a keen eye for detail.*/}
-              {/*</p>*/}
-              <p>
-                  Our mission is simple: to craft software that not only meets your needs but exceeds your expectations.
-              </p>
-              {/*<p>*/}
-              {/*    We believe that excellence is not just a goal; it's a way of life. It's in our DNA to push boundaries, embrace challenges, and deliver solutions that stand the test of time.*/}
-              {/*</p>*/}
-              {/*<p>*/}
-              {/*    As you explore our world, you'll discover a team that is not only passionate about code but also about the success of our clients. We're here to turn your visions into reality, and we do it with style, class, and an unwavering commitment to quality.*/}
-              {/*</p>*/}
-              {/*<p>*/}
-              {/*    We look forward to the exciting journey ahead as we embark on new challenges and create software solutions that make a difference.*/}
-              {/*</p>*/}
-                                
-                  <Link
-                      className="text-sm font-semibold text-gray-600 uppercase dark:text-gray-300"
-                      href={'/about'}>
-                      read more
-                  </Link>
-                  
-              
-          </div>
-          <div className="pt-6 pb-8 space-y-2 md:space-y-5">
-            <h2 className="mono-type font-bold text-2xl leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-2xl sm:leading-10 md:text-4xl md:leading-14">
-                LATEST BLOG POSTS
-            </h2>
-          </div>
+        <div className="pt-6 pb-10 space-y-2 md:space-y-5">
+          <h1 className="mono-type font-bold text-2xl leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
+            Not your ordinary software developers
+          </h1>
+          <p>
+            We are a team of dedicated professionals who thrive on challenges and are relentless in
+            our pursuit of quality solutions. Our journey in the realm of technology is driven by an
+            insatiable curiosity and a commitment to excellence that sets us apart.
+          </p>
+          <p>
+            Our mission is simple: to craft software that not only meets your needs but exceeds your
+            expectations.
+          </p>
+          <Link
+            className="text-sm font-semibold uppercase text-primary-500 hover:text-primary-400"
+            href={'/about'}
+          >
+            read more
+          </Link>
+        </div>
+        <div className="pt-6 pb-8 space-y-2 md:space-y-5">
+          <h2 className="mono-type font-bold text-2xl leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-2xl sm:leading-10 md:text-4xl md:leading-14">
+            LATEST BLOG POSTS
+          </h2>
+        </div>
 
         <ul className="">
           {!posts.length && 'No posts found.'}
