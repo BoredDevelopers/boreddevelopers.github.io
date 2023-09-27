@@ -1,5 +1,5 @@
 ---
-avatar: /static/images/avatars/default.webp
+avatar: /static/images/avatars/default.png
 name: Bored Developers
 company: Bored Developers Sweden AB
 email: contact@boreddevelopers.se

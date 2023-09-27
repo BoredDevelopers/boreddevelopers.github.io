@@ -1,6 +1,6 @@
 ---
 name: Brian Madsen
-avatar: /static/images/avatars/brian.webp
+avatar: /static/images/avatars/brian.png
 company: Bored Developers Sweden AB
 email: brian@boreddevelopers.se
 linkedin: https://www.linkedin.com/in/brianmadsen
