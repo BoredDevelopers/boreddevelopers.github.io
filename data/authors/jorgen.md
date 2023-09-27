@@ -1,6 +1,6 @@
 ---
 name: Jörgen Nilsson
-avatar: /static/images/avatars/jorgen.webp
+avatar: /static/images/avatars/jorgen.png
 company: Bored Developers Sweden AB
 email: jorgen@boreddevelopers.se
 linkedin: https://www.linkedin.com/in/jornilsson
