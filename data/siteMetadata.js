@@ -8,7 +8,7 @@ const siteMetadata = {
   siteUrl: 'https://www.boreddevelopers.xyz',
   siteRepo: 'https://github.com/BoredDevelopers/boreddevelopers.github.io',
   siteLogo: '/static/images/logo.png',
-  image: '/static/images/Avatars/default.png',
+  image: '/static/images/avatars/default.png',
   socialBanner: '/static/images/twitter-banner.png',
   email: 'contact@boreddevelopers.se',
   github: 'https://github.com/boreddevelopers',
