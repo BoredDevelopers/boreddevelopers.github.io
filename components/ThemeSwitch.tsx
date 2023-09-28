@@ -10,7 +10,7 @@ const ThemeSwitch = () => {
   useEffect(() => setMounted(true), [])
 
   return (
-    <motion.button
+    <button
       whileHover={{
         scale: 1.2,
         transition: { duration: 0.2 },
@@ -41,7 +41,7 @@ const ThemeSwitch = () => {
           <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z" />
         )}
       </svg>
-    </motion.button>
+    </button>
   )
 }
 
