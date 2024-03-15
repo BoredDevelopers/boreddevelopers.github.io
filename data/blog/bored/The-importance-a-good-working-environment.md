@@ -10,13 +10,13 @@ summary: 'Do not underestimate the value of a good working environment!'
     <img src="/static/images/blog/desk-set-up.png"/>
     <figcaption>Bored Developers office set up</figcaption>
 </figure>
-##The importance a good working environment
+## The importance a good working environment
 
 Many of us have probably experienced OH&S (Operational Health & Safety) and/or HR (Human Resources) consultants visiting our desks at work and adjusting our seating height, desk height, chair tilt, light angle and posture. We might have found it annoying, even though they performed a very important function. However, most of us tended to ignore their advice once they left.
 
 Besides sitting correctly and maintaining a good posture, the work environment we are in also affects another aspect - our productivity.
 
-###Virtual office... effectively!
+### Virtual office... effectively!
 
 Can a virtual office be as effective and productive as a physical office?
 
@@ -26,13 +26,13 @@ For all intents and purposes, we are sitting in an office together. We have a "o
 
 Working remotely isn't actually that hard and doesn't have to feel disconnected. 
 
-###Clutter and "stuff" on the desk...
+### Clutter and "stuff" on the desk...
 
 With a virtual office, our remote environments has to be focused and comfortable. We made the decision to include aspects of even our desk setup, to be individualised as well as an area where we could feel productive.
 
 When you sit at the same desk, day in and day out, you tend to accumulate a significant amount of "stuff". Even on a daily basis, there's a coffee mug (or tea), maybe a bottle of water, pen(s), notepads, printouts and letters. Then there are cables, USB memory sticks and other accessories. It can quickly become a very busy, and hence not very relaxed or focused work area.
 
-###The setup at Bored Developers...
+### The setup at Bored Developers...
 
 We obviously were aware of some of the challenges you could face in a virtual environment, and feel that we had an answer to those. Now onto the physical environment, which is effectively an investment in ourselves and our well-being.
 
